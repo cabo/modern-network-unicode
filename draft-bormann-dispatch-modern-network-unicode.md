@@ -15,6 +15,11 @@ area: Applications
 workgroup: DISPATCH Working Group
 keyword: Internet-Draft
 
+venue:
+  group: ART area
+  mail: art@ietf.org
+  github: cabo/modern-network-unicode
+
 author:
   -
     ins: C. Bormann
