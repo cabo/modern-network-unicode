@@ -5,8 +5,8 @@ coding: utf-8
 
 title: Modern Network Unicode
 abbrev: Modern Network Unicode
-docname: draft-bormann-dispatch-modern-network-unicode-03
-date: 2023-08-31
+docname: draft-bormann-dispatch-modern-network-unicode-latest
+# date: 2023-08-31
 category: std
 stream: IETF
 
