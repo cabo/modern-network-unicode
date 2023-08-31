@@ -11,14 +11,14 @@ category: std
 stream: IETF
 
 ipr: trust200902
-area: Applications
-workgroup: DISPATCH Working Group
+area: "Applications and Real-Time"
+workgroup: "Dispatch"
 keyword: Internet-Draft
 
 venue:
-  group: ART area
-  mail: art@ietf.org
-  github: cabo/modern-network-unicode
+  group: "Dispatch"
+  mail: "dispatch@ietf.org"
+  github: "cabo/modern-network-unicode"
 
 author:
   -
